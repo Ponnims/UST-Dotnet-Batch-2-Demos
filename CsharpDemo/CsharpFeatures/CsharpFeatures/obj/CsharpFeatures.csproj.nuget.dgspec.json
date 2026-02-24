@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UST Batch 2\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj": {}
+    "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj": {}
   },
   "projects": {
-    "D:\\UST Batch 2\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj": {
+    "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UST Batch 2\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj",
+        "projectUniqueName": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj",
         "projectName": "CsharpFeatures",
-        "projectPath": "D:\\UST Batch 2\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj",
+        "projectPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\UST Batch 2\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\obj\\",
+        "outputPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
