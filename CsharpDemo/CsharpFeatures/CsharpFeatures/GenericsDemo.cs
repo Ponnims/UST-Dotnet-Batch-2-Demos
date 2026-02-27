@@ -31,6 +31,15 @@ namespace CsharpFeatures
             return data;
         }
     }
+
+    class GenMethDemo
+    {
+        public void GenericMethod<T>(T param)
+        {
+            Console.WriteLine("Parameter Type: " + typeof(T));
+            Console.WriteLine("Parameter Value: " + param);
+        }
+    }
     internal class GenericsDemo
     {
         static void Main(string[] args)
@@ -58,6 +67,13 @@ namespace CsharpFeatures
             Console.WriteLine("Data from MyGenericClass<int>: " + obj4.GetData());
 
             //Dictionary<string, int> dict = new Dictionary<string, int>();
+
+            GenMethDemo genMethDemo = new GenMethDemo();
+            genMethDemo.GenericMethod<int>(100);
+            genMethDemo.GenericMethod<string>("Hello, World!");
+            genMethDemo.GenericMethod<double>(3.14);
+            genMethDemo.GenericMethod<bool>(true);
+
         }
     }
 }
