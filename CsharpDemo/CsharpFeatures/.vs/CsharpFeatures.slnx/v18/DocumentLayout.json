@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\trycatchfinally.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\trycatchfinally.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\runtimeerrordemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\runtimeerrordemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\linqjoins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\linqjoins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\linqtoobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\linqtoobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\csharpfeatures.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\csharpfeatures.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\linqbasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\linqbasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\classconcepts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\classconcepts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\objectinitializerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\objectinitializerdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\linqbasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\linqbasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\csharpfeatures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -25,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\collectionsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\collectionsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\classconcepts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|solutionrelative:csharpfeatures\\classconcepts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F729B87-5181-F25E-E628-A55F2D68AA6E}|CsharpFeatures\\CsharpFeatures.csproj|d:\\ust batch 2\\ust_batch_2_demos\\csharpdemo\\csharpfeatures\\csharpfeatures\\genericdelegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,49 +74,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CsharpFeatures",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj",
-              "RelativeDocumentMoniker": "CsharpFeatures\\CsharpFeatures.csproj",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj",
-              "RelativeToolTip": "CsharpFeatures\\CsharpFeatures.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-27T05:57:42.246Z",
+              "DocumentIndex": 0,
+              "Title": "TRyCatchFinally.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\TRyCatchFinally.cs",
+              "RelativeDocumentMoniker": "CsharpFeatures\\TRyCatchFinally.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\TRyCatchFinally.cs",
+              "RelativeToolTip": "CsharpFeatures\\TRyCatchFinally.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:55:19.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "RuntimeErrordemo.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\RuntimeErrordemo.cs",
+              "RelativeDocumentMoniker": "CsharpFeatures\\RuntimeErrordemo.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\RuntimeErrordemo.cs",
+              "RelativeToolTip": "CsharpFeatures\\RuntimeErrordemo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:37:54.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinQJoins.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\LinQJoins.cs",
+              "RelativeDocumentMoniker": "CsharpFeatures\\LinQJoins.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\LinQJoins.cs",
+              "RelativeToolTip": "CsharpFeatures\\LinQJoins.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwDYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:11:57.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LinQtoObj.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\LinQtoObj.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\LinQtoObj.cs",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\LinQtoObj.cs",
               "RelativeToolTip": "CsharpFeatures\\LinQtoObj.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIAwwBwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T05:55:17.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CsharpFeatures",
+              "DocumentIndex": 7,
+              "Title": "CsharpFeatures.csproj",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj",
               "RelativeDocumentMoniker": "CsharpFeatures\\CsharpFeatures.csproj",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CsharpFeatures.csproj",
               "RelativeToolTip": "CsharpFeatures\\CsharpFeatures.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-27T04:44:38.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T04:44:38.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "LINQBasics.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\LINQBasics.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\LINQBasics.cs",
@@ -116,38 +150,37 @@
               "RelativeToolTip": "CsharpFeatures\\LINQBasics.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAAACQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T05:16:14.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T05:16:14.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ObjectInitializerdemo.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\ObjectInitializerdemo.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\ObjectInitializerdemo.cs",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\ObjectInitializerdemo.cs",
               "RelativeToolTip": "CsharpFeatures\\ObjectInitializerdemo.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T05:05:09.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ClassConcepts.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\ClassConcepts.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\ClassConcepts.cs",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\ClassConcepts.cs",
               "RelativeToolTip": "CsharpFeatures\\ClassConcepts.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T04:45:06.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CollectionsDemo.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\CollectionsDemo.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\CollectionsDemo.cs",
@@ -155,12 +188,11 @@
               "RelativeToolTip": "CsharpFeatures\\CollectionsDemo.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T04:27:55.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T04:27:55.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GenericDelegateDemo.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\GenericDelegateDemo.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\GenericDelegateDemo.cs",
@@ -168,12 +200,11 @@
               "RelativeToolTip": "CsharpFeatures\\GenericDelegateDemo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T03:47:17.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T03:47:17.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "GenericsDemo.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\GenericsDemo.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\GenericsDemo.cs",
@@ -181,12 +212,11 @@
               "RelativeToolTip": "CsharpFeatures\\GenericsDemo.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAAADsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T05:25:33.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T05:25:33.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LambdaDemo.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\LambdaDemo.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\LambdaDemo.cs",
@@ -198,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "StronglyCoupled.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\StronglyCoupled.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\StronglyCoupled.cs",
@@ -210,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "NoOCP.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\NoOCP.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\NoOCP.cs",
@@ -222,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AnonymousMethodDemo.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\AnonymousMethodDemo.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\AnonymousMethodDemo.cs",
@@ -234,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DelegateDemo.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\CsharpDemo\\CsharpFeatures\\CsharpFeatures\\DelegateDemo.cs",
               "RelativeDocumentMoniker": "CsharpFeatures\\DelegateDemo.cs",

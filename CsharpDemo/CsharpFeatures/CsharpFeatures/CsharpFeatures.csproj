@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CsharpFeatures.LinQtoObj</StartupObject>
+    <StartupObject>CsharpFeatures.TRyCatchFinally</StartupObject>
   </PropertyGroup>
 
 </Project>
