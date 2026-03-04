@@ -1,0 +1,2 @@
+THis is a demo of FileStream and StreamWriter in C#.
+We can write data to the file using StreamWriter.

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpFeatures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+691bc2ab159dfc718092bd234431ee9e09a7e670")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce19bca2275808aab341bade211ea122c2168763")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpFeatures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpFeatures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

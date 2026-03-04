@@ -27,3 +27,17 @@ D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\obj\De
 D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\obj\Debug\net10.0\CsharpFeatures.pdb
 D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\obj\Debug\net10.0\CsharpFeatures.genruntimeconfig.cache
 D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\obj\Debug\net10.0\ref\CsharpFeatures.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.Logging.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.Logging.Console.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\obj\Debug\net10.0\CsharpFeatures.csproj.AssemblyReference.cache
+D:\UST Batch 2\UST_Batch_2_Demos\CsharpDemo\CsharpFeatures\CsharpFeatures\obj\Debug\net10.0\CsharpFe.179E64A5.Up2Date
