@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\asynchronousdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\asynchronousdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\parallelforeach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\parallelforeach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\parallelfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\parallelfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\realtimeparallel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\realtimeparallel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\realtimedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\realtimedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\callapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\callapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\asyncawaitfordownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\asyncawaitfordownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\taskdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\taskdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\threaddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\threaddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\asynchronousdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\asynchronousdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\multithreaddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\multithreaddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\asynchronousdemo\\asynchronousdemo\\synchronousdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0B0D8F-C9BF-4E5B-99B2-5D2762B153B9}|AsynchronousDemo\\AsynchronousDemo.csproj|solutionrelative:asynchronousdemo\\synchronousdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsynchronousDemo",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\AsynchronousDemo.csproj",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\AsynchronousDemo.csproj",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\AsynchronousDemo.csproj",
+              "RelativeToolTip": "AsynchronousDemo\\AsynchronousDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T06:03:14.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parallelforeach.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\Parallelforeach.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\Parallelforeach.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\Parallelforeach.cs*",
+              "RelativeToolTip": "AsynchronousDemo\\Parallelforeach.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T06:01:08.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParallelFor.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\ParallelFor.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\ParallelFor.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\ParallelFor.cs",
+              "RelativeToolTip": "AsynchronousDemo\\ParallelFor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:53:25.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RealtimeParallel.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\RealtimeParallel.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\RealtimeParallel.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\RealtimeParallel.cs",
+              "RelativeToolTip": "AsynchronousDemo\\RealtimeParallel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:47:32.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Realtimedemo.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\Realtimedemo.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\Realtimedemo.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\Realtimedemo.cs",
+              "RelativeToolTip": "AsynchronousDemo\\Realtimedemo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:42:29.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Callapi.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\Callapi.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\Callapi.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\Callapi.cs",
+              "RelativeToolTip": "AsynchronousDemo\\Callapi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:34:25.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "asyncawaitfordownload.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\asyncawaitfordownload.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\asyncawaitfordownload.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\asyncawaitfordownload.cs",
+              "RelativeToolTip": "AsynchronousDemo\\asyncawaitfordownload.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:24:42.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Taskdemo.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\Taskdemo.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\Taskdemo.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\Taskdemo.cs",
+              "RelativeToolTip": "AsynchronousDemo\\Taskdemo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:58:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Multithreaddemo.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\Multithreaddemo.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\Multithreaddemo.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\Multithreaddemo.cs",
+              "RelativeToolTip": "AsynchronousDemo\\Multithreaddemo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:52:14.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AsynchronousDemo",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\AsynchronousDemo.csproj",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\AsynchronousDemo.csproj",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\AsynchronousDemo.csproj*",
+              "RelativeToolTip": "AsynchronousDemo\\AsynchronousDemo.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T04:07:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThreadDemo.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\ThreadDemo.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\ThreadDemo.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\ThreadDemo.cs",
+              "RelativeToolTip": "AsynchronousDemo\\ThreadDemo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:42:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SynchronousDemo.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\SynchronousDemo.cs",
+              "RelativeDocumentMoniker": "AsynchronousDemo\\SynchronousDemo.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\AsynchronousDemo\\AsynchronousDemo\\SynchronousDemo.cs",
+              "RelativeToolTip": "AsynchronousDemo\\SynchronousDemo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:07:52.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\bin\Debug\net10.0\AsynchronousDemo.exe
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\bin\Debug\net10.0\AsynchronousDemo.deps.json
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\bin\Debug\net10.0\AsynchronousDemo.runtimeconfig.json
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\bin\Debug\net10.0\AsynchronousDemo.dll
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\bin\Debug\net10.0\AsynchronousDemo.pdb
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.AssemblyInfoInputs.cache
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.AssemblyInfo.cs
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.csproj.CoreCompileInputs.cache
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.sourcelink.json
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.dll
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\obj\Debug\net10.0\refint\AsynchronousDemo.dll
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.pdb
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\obj\Debug\net10.0\AsynchronousDemo.genruntimeconfig.cache
+D:\UST Batch 2\UST_Batch_2_Demos\AsynchronousDemo\AsynchronousDemo\obj\Debug\net10.0\ref\AsynchronousDemo.dll
