@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8F22C5-A158-4A24-AC0D-A89A3E294EF5}|TestDemo\\UniTestProject.csproj|d:\\ust batch 2\\ust_batch_2_demos\\unittestingdemo\\testdemo\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8F22C5-A158-4A24-AC0D-A89A3E294EF5}|TestDemo\\UniTestProject.csproj|solutionrelative:testdemo\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5355F3D8-DA4F-4341-A0EA-EA5F572E67AC}|UnitTestingDemo\\Application.csproj|d:\\ust batch 2\\ust_batch_2_demos\\unittestingdemo\\unittestingdemo\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5355F3D8-DA4F-4341-A0EA-EA5F572E67AC}|UnitTestingDemo\\Application.csproj|solutionrelative:unittestingdemo\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5355F3D8-DA4F-4341-A0EA-EA5F572E67AC}|UnitTestingDemo\\Application.csproj|d:\\ust batch 2\\ust_batch_2_demos\\unittestingdemo\\unittestingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5355F3D8-DA4F-4341-A0EA-EA5F572E67AC}|UnitTestingDemo\\Application.csproj|solutionrelative:unittestingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8F22C5-A158-4A24-AC0D-A89A3E294EF5}|TestDemo\\UniTestProject.csproj|d:\\ust batch 2\\ust_batch_2_demos\\unittestingdemo\\testdemo\\unitestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F8F22C5-A158-4A24-AC0D-A89A3E294EF5}|TestDemo\\UniTestProject.csproj|solutionrelative:testdemo\\unitestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5355F3D8-DA4F-4341-A0EA-EA5F572E67AC}|UnitTestingDemo\\UnitTestingDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\unittestingdemo\\unittestingdemo\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5355F3D8-DA4F-4341-A0EA-EA5F572E67AC}|UnitTestingDemo\\UnitTestingDemo.csproj|solutionrelative:unittestingdemo\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\UnitTestingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestingDemo\\Program.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\UnitTestingDemo\\Program.cs",
+              "RelativeToolTip": "UnitTestingDemo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T04:58:20.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniTestProject",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\TestDemo\\UniTestProject.csproj",
+              "RelativeDocumentMoniker": "TestDemo\\UniTestProject.csproj",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\TestDemo\\UniTestProject.csproj",
+              "RelativeToolTip": "TestDemo\\UniTestProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T04:45:48.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\TestDemo\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "TestDemo\\CalculatorTests.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\TestDemo\\CalculatorTests.cs",
+              "RelativeToolTip": "TestDemo\\CalculatorTests.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T04:41:57.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\UnitTestingDemo\\Calculator.cs",
+              "RelativeDocumentMoniker": "UnitTestingDemo\\Calculator.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\UnitTestingDemo\\Calculator.cs",
+              "RelativeToolTip": "UnitTestingDemo\\Calculator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T04:41:12.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notes.txt",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\UnitTestingDemo\\Notes.txt",
+              "RelativeDocumentMoniker": "UnitTestingDemo\\Notes.txt",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\UnitTestingDemo\\UnitTestingDemo\\Notes.txt",
+              "RelativeToolTip": "UnitTestingDemo\\Notes.txt",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-06T04:24:28.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
