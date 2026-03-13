@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "RestAPIBasics.Controllers.LearnerController",
+    "Method": "AnotherGet",
+    "RelativePath": "api/ust/Learner/anotherget",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestAPIBasics.Controllers.LearnerController",
+    "Method": "GetLearners",
+    "RelativePath": "api/ust/Learner/getlearnerss",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
