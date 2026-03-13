@@ -3,6 +3,7 @@ import React from 'react'
 //const ProductList = ({ brandname, price,showmessage }) => { // using props using destructuring
 const ProductList = (props) => {
      const Title="My Favorite Product"
+     console.log(props);
     return (
 
         <div className="card" style={{width: '18rem'}}>
@@ -13,7 +14,7 @@ const ProductList = (props) => {
                 <p>Price is : {props.price}</p>
                  {/* <p>Brand is : {brandname} </p>
                 <p>Price is : {price}</p> */}
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" className="btn btn-primary">Go somewhere</a>
                 <button onClick ={props.showmessage}>Click me</button>
             </div>
         </div>

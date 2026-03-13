@@ -9,10 +9,9 @@ import ProductList from './Components/ProductList'
 
 function App() {
  
-  function btnclck()
-  {
-    alert("Button is clicked, saying Hello from Parent")
-  }
+  const btnclck = () => {
+    alert("Hello from Parent!");
+  };
 
   return (
     <>
@@ -21,6 +20,7 @@ function App() {
      <ProductList brandname="Lenova" price={545456}/>
      <ProductList brandname="HP" price={78787979}/>
      <ProductList brandname="Apple" price={34456767} showmessage ={btnclck}/>
+    
      <Footer />
    </>
   )
