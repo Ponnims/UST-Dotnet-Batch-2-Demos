@@ -6,6 +6,10 @@ import Sampletocheck from './Components/Sampletocheck'
 import Header from './Components/Header'
 import Footer from './Components/Footer'
 import ProductList from './Components/ProductList'
+import UseStateDemo from './Components/UseStateDemo'
+import UseEffectDemo from './Components/UseEffectDemo'
+import NormalLoginForm from './Components/NormalForm'
+import FormikLogin from './Components/FormikLogin'
 
 function App() {
  
@@ -17,9 +21,15 @@ function App() {
     <>
      {/* <Sampletocheck /> */}
      <Header />
-     <ProductList brandname="Lenova" price={545456}/>
+     {/* <ProductList brandname="Lenova" price={545456}/>
      <ProductList brandname="HP" price={78787979}/>
-     <ProductList brandname="Apple" price={34456767} showmessage ={btnclck}/>
+     <ProductList brandname="Apple" price={34456767} showmessage ={btnclck}/> */}
+
+     {/* <UseStateDemo  /> */}
+     {/* <UseEffectDemo/> */}
+     {/* <NormalLoginForm/> */}
+
+     <FormikLogin />
     
      <Footer />
    </>
