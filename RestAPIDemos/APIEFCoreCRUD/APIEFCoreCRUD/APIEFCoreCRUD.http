@@ -1,0 +1,6 @@
+@APIEFCoreCRUD_HostAddress = http://localhost:5242
+
+GET {{APIEFCoreCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

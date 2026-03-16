@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apiefcorecrud\\apiefcorecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|solutionrelative:apiefcorecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apiefcorecrud\\apiefcorecrud\\models\\traineedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|solutionrelative:apiefcorecrud\\models\\traineedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apiefcorecrud\\apiefcorecrud\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|solutionrelative:apiefcorecrud\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apiefcorecrud\\apiefcorecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|solutionrelative:apiefcorecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apiefcorecrud\\apiefcorecrud\\migrations\\traineedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|solutionrelative:apiefcorecrud\\migrations\\traineedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apiefcorecrud\\apiefcorecrud\\migrations\\20260316044237_intitaldbwithtraineetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|solutionrelative:apiefcorecrud\\migrations\\20260316044237_intitaldbwithtraineetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apiefcorecrud\\apiefcorecrud\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|solutionrelative:apiefcorecrud\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apiefcorecrud\\apiefcorecrud\\apiefcorecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|solutionrelative:apiefcorecrud\\apiefcorecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mentor.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Models\\Mentor.cs",
+              "RelativeDocumentMoniker": "APIEFCoreCRUD\\Models\\Mentor.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Models\\Mentor.cs",
+              "RelativeToolTip": "APIEFCoreCRUD\\Models\\Mentor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:51:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TraineeDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Migrations\\TraineeDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "APIEFCoreCRUD\\Migrations\\TraineeDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Migrations\\TraineeDBContextModelSnapshot.cs",
+              "RelativeToolTip": "APIEFCoreCRUD\\Migrations\\TraineeDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:45:10.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260316044237_Intitaldbwithtraineetable.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Migrations\\20260316044237_Intitaldbwithtraineetable.cs",
+              "RelativeDocumentMoniker": "APIEFCoreCRUD\\Migrations\\20260316044237_Intitaldbwithtraineetable.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Migrations\\20260316044237_Intitaldbwithtraineetable.cs",
+              "RelativeToolTip": "APIEFCoreCRUD\\Migrations\\20260316044237_Intitaldbwithtraineetable.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:42:38.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "APIEFCoreCRUD\\Program.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Program.cs",
+              "RelativeToolTip": "APIEFCoreCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:31:38.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "APIEFCoreCRUD\\appsettings.json",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\appsettings.json",
+              "RelativeToolTip": "APIEFCoreCRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T04:28:02.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TraineeDBContext.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Models\\TraineeDBContext.cs",
+              "RelativeDocumentMoniker": "APIEFCoreCRUD\\Models\\TraineeDBContext.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Models\\TraineeDBContext.cs",
+              "RelativeToolTip": "APIEFCoreCRUD\\Models\\TraineeDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:27:23.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "APIEFCoreCRUD\\Models\\Trainee.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Models\\Trainee.cs",
+              "RelativeToolTip": "APIEFCoreCRUD\\Models\\Trainee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:15:54.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "APIEFCoreCRUD",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\APIEFCoreCRUD.csproj",
+              "RelativeDocumentMoniker": "APIEFCoreCRUD\\APIEFCoreCRUD.csproj",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\APIEFCoreCRUD.csproj",
+              "RelativeToolTip": "APIEFCoreCRUD\\APIEFCoreCRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T04:14:57.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
