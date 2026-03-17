@@ -37,5 +37,9 @@ namespace APICRUD.Repository
             dbcntxt.SaveChanges();
 
         }
+        public Trainee GetTrainee(int id)
+        {
+            return dbcntxt.Trainees.Where(t => t.Id == id).FirstOrDefault();
+        }
     }
 }

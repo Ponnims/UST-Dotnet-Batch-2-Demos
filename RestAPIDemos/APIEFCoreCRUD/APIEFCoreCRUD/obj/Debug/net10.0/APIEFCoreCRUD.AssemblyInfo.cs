@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIEFCoreCRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c837cd4ad5f4bb491ad5beaeb3f364244a859be2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c10a92078ee0da2bda93810a5749c185184b64d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIEFCoreCRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIEFCoreCRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

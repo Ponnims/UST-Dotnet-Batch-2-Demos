@@ -1,5 +1,6 @@
 using APICRUD.Models;
 using APICRUD.Repository;
+using APICRUD.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,7 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 builder.Services.AddDbContext<TraineeDBContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("Mycon")));
 builder.Services.AddScoped<ITraineeRepository,TraineeRepository>();
+builder.Services.AddScoped<ITraineeService,TraineeService>();
 
 var app = builder.Build();
 

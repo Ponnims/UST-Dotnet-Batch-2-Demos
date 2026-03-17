@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\efcoreannotations\\efcoreannotations\\migrations\\20260317053341_next4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|solutionrelative:efcoreannotations\\migrations\\20260317053341_next4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\efcoreannotations\\efcoreannotations\\models\\sampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|solutionrelative:efcoreannotations\\models\\sampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\efcoreannotations\\efcoreannotations\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|solutionrelative:efcoreannotations\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\efcoreannotations\\efcoreannotations\\migrations\\20260317053134_next3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|solutionrelative:efcoreannotations\\migrations\\20260317053134_next3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\efcoreannotations\\efcoreannotations\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|solutionrelative:efcoreannotations\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\efcoreannotations\\efcoreannotations\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|solutionrelative:efcoreannotations\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\efcoreannotations\\efcoreannotations\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|solutionrelative:efcoreannotations\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\efcoreannotations\\efcoreannotations\\annotations.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|solutionrelative:efcoreannotations\\annotations.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\efcoreannotations\\efcoreannotations\\efcoreannotations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|solutionrelative:efcoreannotations\\efcoreannotations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\efcoreannotations\\efcoreannotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EACD499-6039-460F-9DD8-3AFC66EBB2E8}|EFCoreAnnotations\\EFCoreAnnotations.csproj|solutionrelative:efcoreannotations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260317053341_next4.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Migrations\\20260317053341_next4.cs",
+              "RelativeDocumentMoniker": "EFCoreAnnotations\\Migrations\\20260317053341_next4.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Migrations\\20260317053341_next4.cs",
+              "RelativeToolTip": "EFCoreAnnotations\\Migrations\\20260317053341_next4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:33:42.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260317053134_next3.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Migrations\\20260317053134_next3.cs",
+              "RelativeDocumentMoniker": "EFCoreAnnotations\\Migrations\\20260317053134_next3.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Migrations\\20260317053134_next3.cs",
+              "RelativeToolTip": "EFCoreAnnotations\\Migrations\\20260317053134_next3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:31:35.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EFCoreAnnotations\\Models\\Product.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Models\\Product.cs",
+              "RelativeToolTip": "EFCoreAnnotations\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:24:23.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "EFCoreAnnotations\\Models\\Author.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Models\\Author.cs",
+              "RelativeToolTip": "EFCoreAnnotations\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:13:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "EFCoreAnnotations\\Models\\Book.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Models\\Book.cs",
+              "RelativeToolTip": "EFCoreAnnotations\\Models\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:12:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleDBContext.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Models\\SampleDBContext.cs",
+              "RelativeDocumentMoniker": "EFCoreAnnotations\\Models\\SampleDBContext.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Models\\SampleDBContext.cs",
+              "RelativeToolTip": "EFCoreAnnotations\\Models\\SampleDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:06:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "EFCoreAnnotations\\Models\\Learner.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Models\\Learner.cs",
+              "RelativeToolTip": "EFCoreAnnotations\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T05:06:13.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EFCoreAnnotations",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\EFCoreAnnotations.csproj",
+              "RelativeDocumentMoniker": "EFCoreAnnotations\\EFCoreAnnotations.csproj",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\EFCoreAnnotations.csproj",
+              "RelativeToolTip": "EFCoreAnnotations\\EFCoreAnnotations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T04:56:12.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Annotations.txt",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Annotations.txt",
+              "RelativeDocumentMoniker": "EFCoreAnnotations\\Annotations.txt",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Annotations.txt",
+              "RelativeToolTip": "EFCoreAnnotations\\Annotations.txt",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-17T04:56:35.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreAnnotations\\Program.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\EFCoreAnnotations\\EFCoreAnnotations\\Program.cs",
+              "RelativeToolTip": "EFCoreAnnotations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:53:55.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

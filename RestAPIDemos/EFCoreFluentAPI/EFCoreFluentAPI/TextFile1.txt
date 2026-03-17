@@ -1,0 +1,10 @@
+﻿Fluent API: 
+One of the way to Configure the model is to use Fluent API. 
+It is a way to configure the model using code. 
+It is a more powerful way to configure the model than Data Annotations. 
+It allows you to configure the model in a more flexible way.
+It also allows you to configure the model in a more complex way. 
+It is also a way to configure the model in a more readable way.
+
+OnModelCreating Method: DBContext class has a method called OnModelCreating.
+Here we follow the method chaining syntax.

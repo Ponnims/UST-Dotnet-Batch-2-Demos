@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6C41602-E896-4073-B0E5-DEFBE7BA85B9}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C41602-E896-4073-B0E5-DEFBE7BA85B9}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C41602-E896-4073-B0E5-DEFBE7BA85B9}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C41602-E896-4073-B0E5-DEFBE7BA85B9}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C41602-E896-4073-B0E5-DEFBE7BA85B9}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\repository\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C41602-E896-4073-B0E5-DEFBE7BA85B9}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\repository\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\models\\traineedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\models\\traineedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C41602-E896-4073-B0E5-DEFBE7BA85B9}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\repository\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C41602-E896-4073-B0E5-DEFBE7BA85B9}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\repository\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C41602-E896-4073-B0E5-DEFBE7BA85B9}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\apicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D6C41602-E896-4073-B0E5-DEFBE7BA85B9}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\apicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\services\\traineeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\services\\traineeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\repository\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\repository\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\services\\itraineeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\services\\itraineeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\repository\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\repository\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\apicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\apicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\exceptions\\trainee_doesnot_exixts_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\exceptions\\trainee_doesnot_exixts_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\exceptions\\traineealreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A539A5F4-873D-B76B-4FF8-E9C9BD29D3B6}|APICRUD\\APICRUD.csproj|solutionrelative:apicrud\\exceptions\\traineealreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +58,153 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "APICRUD\\appsettings.json",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\appsettings.json",
+              "RelativeToolTip": "APICRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T05:07:20.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TraineeDBContext.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Models\\TraineeDBContext.cs",
+              "RelativeDocumentMoniker": "APICRUD\\Models\\TraineeDBContext.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Models\\TraineeDBContext.cs",
+              "RelativeToolTip": "APICRUD\\Models\\TraineeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:50:58.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TraineeService.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Services\\TraineeService.cs",
+              "RelativeDocumentMoniker": "APICRUD\\Services\\TraineeService.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Services\\TraineeService.cs",
+              "RelativeToolTip": "APICRUD\\Services\\TraineeService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:24:43.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITraineeService.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Services\\ITraineeService.cs",
+              "RelativeDocumentMoniker": "APICRUD\\Services\\ITraineeService.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Services\\ITraineeService.cs",
+              "RelativeToolTip": "APICRUD\\Services\\ITraineeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:24:08.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TraineeRepository.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Repository\\TraineeRepository.cs",
               "RelativeDocumentMoniker": "APICRUD\\Repository\\TraineeRepository.cs",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Repository\\TraineeRepository.cs",
               "RelativeToolTip": "APICRUD\\Repository\\TraineeRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T05:52:27.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T05:52:27.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Program.cs",
+              "RelativeDocumentMoniker": "APICRUD\\Program.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Program.cs",
+              "RelativeToolTip": "APICRUD\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:25:21.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ITraineeRepository.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Repository\\ITraineeRepository.cs",
               "RelativeDocumentMoniker": "APICRUD\\Repository\\ITraineeRepository.cs",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Repository\\ITraineeRepository.cs",
               "RelativeToolTip": "APICRUD\\Repository\\ITraineeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T05:50:45.178Z",
+              "WhenOpened": "2026-03-16T05:50:45.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "APICRUD\\Controllers\\TraineeController.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "APICRUD\\Controllers\\TraineeController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAIAwwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:22:46.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "APICRUD\\Models\\Trainee.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Models\\Trainee.cs",
+              "RelativeToolTip": "APICRUD\\Models\\Trainee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:50:46.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "APICRUD",
+              "DocumentIndex": 10,
+              "Title": "Trainee_Doesnot_Exixts_Exception.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Exceptions\\Trainee_Doesnot_Exixts_Exception.cs",
+              "RelativeDocumentMoniker": "APICRUD\\Exceptions\\Trainee_Doesnot_Exixts_Exception.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Exceptions\\Trainee_Doesnot_Exixts_Exception.cs",
+              "RelativeToolTip": "APICRUD\\Exceptions\\Trainee_Doesnot_Exixts_Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:21:24.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TraineeAlreadyExistsException.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Exceptions\\TraineeAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "APICRUD\\Exceptions\\TraineeAlreadyExistsException.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Exceptions\\TraineeAlreadyExistsException.cs",
+              "RelativeToolTip": "APICRUD\\Exceptions\\TraineeAlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:20:00.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "APICRUD.csproj",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\APICRUD.csproj",
               "RelativeDocumentMoniker": "APICRUD\\APICRUD.csproj",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\APICRUD.csproj",
               "RelativeToolTip": "APICRUD\\APICRUD.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-16T05:49:45.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Program.cs",
-              "RelativeDocumentMoniker": "APICRUD\\Program.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Program.cs",
-              "RelativeToolTip": "APICRUD\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T05:25:21.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TraineeController.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
-              "RelativeDocumentMoniker": "APICRUD\\Controllers\\TraineeController.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
-              "RelativeToolTip": "APICRUD\\Controllers\\TraineeController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T05:22:46.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T05:49:45.13Z"
             }
           ]
         }

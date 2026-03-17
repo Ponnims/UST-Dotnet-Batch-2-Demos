@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apiefcorecrud\\apiefcorecrud\\modelss\\dbustbatch2demoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|solutionrelative:apiefcorecrud\\modelss\\dbustbatch2demoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apiefcorecrud\\apiefcorecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3516E051-FDE7-4AC2-BD38-43E2B8E57449}|APIEFCoreCRUD\\APIEFCoreCRUD.csproj|solutionrelative:apiefcorecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "DbUstBatch2DemosContext.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Modelss\\DbUstBatch2DemosContext.cs",
+              "RelativeDocumentMoniker": "APIEFCoreCRUD\\Modelss\\DbUstBatch2DemosContext.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Modelss\\DbUstBatch2DemosContext.cs",
+              "RelativeToolTip": "APIEFCoreCRUD\\Modelss\\DbUstBatch2DemosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:02:57.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Mentor.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Models\\Mentor.cs",
               "RelativeDocumentMoniker": "APIEFCoreCRUD\\Models\\Mentor.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TraineeDBContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Migrations\\TraineeDBContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "APIEFCoreCRUD\\Migrations\\TraineeDBContextModelSnapshot.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20260316044237_Intitaldbwithtraineetable.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Migrations\\20260316044237_Intitaldbwithtraineetable.cs",
               "RelativeDocumentMoniker": "APIEFCoreCRUD\\Migrations\\20260316044237_Intitaldbwithtraineetable.cs",
@@ -85,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Program.cs",
               "RelativeDocumentMoniker": "APIEFCoreCRUD\\Program.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\appsettings.json",
               "RelativeDocumentMoniker": "APIEFCoreCRUD\\appsettings.json",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TraineeDBContext.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Models\\TraineeDBContext.cs",
               "RelativeDocumentMoniker": "APIEFCoreCRUD\\Models\\TraineeDBContext.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Trainee.cs",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\Models\\Trainee.cs",
               "RelativeDocumentMoniker": "APIEFCoreCRUD\\Models\\Trainee.cs",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "APIEFCoreCRUD",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APIEFCoreCRUD\\APIEFCoreCRUD\\APIEFCoreCRUD.csproj",
               "RelativeDocumentMoniker": "APIEFCoreCRUD\\APIEFCoreCRUD.csproj",

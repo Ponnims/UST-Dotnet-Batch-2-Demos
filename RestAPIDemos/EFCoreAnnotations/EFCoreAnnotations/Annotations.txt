@@ -1,0 +1,24 @@
+﻿Default Naming Conventions will provide some configurations for your entities, 
+but you can also use Data Annotations to further customize the mapping between your 
+classes and the database.
+
+class Employee
+{
+int Id { get; set; } // This will be configured as the primary key by convention
+int EmployeeId { get; set; } // This will also be configured as the primary key by convention
+int EmployeeNumber { get; set; } // This will not be configured as the primary key by convention
+}
+
+
+What are Data Annotations?
+[] Attributes that you can apply to your classes and properties to configure how they
+map to the database.
+[Key] - Specifies that a property is the primary key of the entity.
+[Required] - Specifies that a property is required (not nullable).
+[StringLength] - Specifies the maximum length of a string property.
+[Range] - Specifies the range of values for a numeric property.
+[RegularExpression] - Specifies a regular expression that a string property must match.
+[ForeignKey] - Specifies that a property is a foreign key to another entity.
+[Datatype] - Specifies the data type of a property (e.g., Date, Time, EmailAddress).
+[NotMapped] - Specifies that a property should not be mapped to the database.
+[Table] - Specifies the name of the database table that an entity maps to.
