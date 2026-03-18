@@ -1,0 +1,137 @@
+﻿Installing Apache Kafka on Windows 11 involves several steps. 
+Here's a detailed guide to help you through the process:
+
+### Step 1: Install Java Development Kit (JDK)
+1. *Download JDK*:
+   - Go to the [Oracle JDK download page](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+   - Download the installer for Windows.
+
+2. *Install JDK*:
+   - Run the installer and follow the instructions to install the JDK.
+   - During installation, note the installation directory (e.g., C:\Program Files\Java\jdk-11.x.x).
+
+3. *Set JAVA_HOME Environment Variable*:
+   - Open the Start Menu, search for "Environment Variables", and select "Edit the system environment variables".
+   - In the System Properties window, click on "Environment Variables".
+   - Click "New" under the "System variables" section.
+   - Set the Variable name to JAVA_HOME.
+   - Set the Variable value to the path of your JDK installation (e.g., C:\Program Files\Java\jdk-11.x.x).
+   - Click "OK" to close all windows.
+
+4. *Update PATH Environment Variable*:
+   - In the Environment Variables window, find the Path variable under "System variables".
+   - Select it and click "Edit".
+   - Click "New" and add %JAVA_HOME%\bin.
+   - Click "OK" to close all windows.
+
+5. *Verify Installation*:
+   - Open Command Prompt and type java -version.
+   - You should see the installed JDK version.
+
+   (optional)Install WSl (WSL (Windows Subsystem for Linux) 
+   is not strictly needed to work with Kafka on Windows) so 
+   the below 2 steps are optional
+   1. Open Powershell from windows
+   2. wsl.exe --install
+
+### Step 2: Download and Extract Kafka
+1. *Download Kafka*:
+   - Go to the [Apache Kafka download page](https://kafka.apache.org/downloads).
+   - Download the binary files (e.g., kafka_2.13-2.8.0.tgz).
+
+2. *Extract Kafka*:
+   - Use a tool like 7-Zip to extract the downloaded .tgz file.
+   - Extract the contents to a directory of your choice (e.g., C:\kafka).
+
+### Step 3: Configure Kafka
+1. *Create Data Directories*:
+
+(Kafka Data Directory: Stores persistent message logs for topics, 
+ensuring fault tolerance and managing data retention policies.
+
+Zookeeper Data Directory: Stores metadata and transactional state critical for
+Kafka cluster coordination, leader election, and maintaining consistency.)
+
+   - Open Command Prompt and navigate to your Kafka directory (e.g., cd C:\kafka).
+   - Create the necessary data directories for Kafka and Zookeeper:
+     shell
+     mkdir data
+     mkdir data\zookeeper
+     mkdir data\kafka
+     
+
+2. *Edit Configuration Files*:
+   - Navigate to the config directory within your Kafka installation directory 
+   (e.g., C:\kafka\config).
+   - Open zookeeper.properties with a text editor and set the data directory:
+     properties
+     dataDir=C:/kafka/data/zookeeper
+     
+   - Open server.properties and set the log directory:
+     properties
+     log.dirs=C:/kafka/data/kafka
+     
+
+### Step 4: Start Zookeeper and Kafka
+
+1. *Start Zookeeper* (continued):
+   - Open a new Command Prompt window.
+   - Navigate to the Kafka directory (e.g., cd C:\kafka).
+   - Run the following command to start Zookeeper:
+     shell
+     .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+     
+
+2. *Start Kafka*:
+   - Open another Command Prompt window.
+   - Navigate to the Kafka directory (e.g., cd C:\kafka).
+   - Run the following command to start the Kafka server:
+     shell
+     .\bin\windows\kafka-server-start.bat .\config\server.properties
+     
+
+### Step 5: Verify Installation
+1. *Create a Kafka Topic*:
+   - In a new Command Prompt window, navigate to the Kafka directory.
+   - Run the following command to create a new topic named test:
+     shell
+     .\bin\windows\kafka-topics.bat --create --topic test --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+     
+   - You should see a message indicating that the topic has been created.
+
+2. *List Kafka Topics*:
+   - Run the following command to list all topics:
+     shell
+     .\bin\windows\kafka-topics.bat --list --bootstrap-server localhost:9092
+     
+   - You should see the test topic listed.
+
+3. *Produce Messages to the Topic*:
+   - Open another Command Prompt window.
+   - Navigate to the Kafka directory.
+   - Run the following command to start a producer:
+     shell
+     .\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic test
+     
+   - Type some messages and press Enter. These messages are sent to the test topic.
+
+4. *Consume Messages from the Topic*:
+   - Open another Command Prompt window.
+   - Navigate to the Kafka directory.
+   - Run the following command to start a consumer:
+     shell
+     .\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test --from-beginning
+     
+   - You should see the messages you typed in the producer window.
+
+### Additional Tips
+- *Stopping Kafka and Zookeeper*:
+  - To stop Kafka and Zookeeper, you can simply close their respective Command Prompt windows or use Ctrl+C in each window to terminate the processes.
+  
+- *Automating Startup*:
+  - You can create batch files to start Zookeeper and Kafka more conveniently. For example, create start-zookeeper.bat and start-kafka.bat with the commands mentioned above.
+
+- *Configuring Kafka*:
+  - Kafka has many configuration options available in the server.properties file. You can tune these settings based on your requirements.
+
+By following these steps, you should have Apache Kafka up and running on your Windows 11 machine.

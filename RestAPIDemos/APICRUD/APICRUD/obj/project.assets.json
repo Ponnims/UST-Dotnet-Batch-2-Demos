@@ -3158,9 +3158,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\APICRUD.csproj",
-      "projectName": "APICRUD",
-      "projectPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\APICRUD.csproj",
+      "projectUniqueName": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\TraineeService.csproj",
+      "projectName": "TraineeService",
+      "projectPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\TraineeService.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\obj\\",
       "projectStyle": "PackageReference",

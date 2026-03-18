@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../APICRUD/APICRUD/TraineeService.csproj" />
+  <Project Path="AuthenticationService/AuthenticationService.csproj" />
+  <Project Path="LearnersService/LearnersService.csproj" />
+</Solution>

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ProducerService.Controllers.OrderController",
+    "Method": "Post",
+    "RelativePath": "api/Order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "ProducerService.Models.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APICRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c10a92078ee0da2bda93810a5749c185184b64d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+074ef8df8a66f994047def6ef89afee230a78038")]
 [assembly: System.Reflection.AssemblyProductAttribute("APICRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APICRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

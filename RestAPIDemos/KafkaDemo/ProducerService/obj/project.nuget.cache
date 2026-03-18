@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "aj9Tz61X7tY=",
+  "success": true,
+  "projectFilePath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\ProducerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\confluent.kafka\\2.13.0\\confluent.kafka.2.13.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\librdkafka.redist\\2.13.0\\librdkafka.redist.2.13.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
