@@ -3,44 +3,26 @@
   "WorkspaceRootPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BEDCD03-F863-5BF8-7F0C-CBE5284A596D}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEDCD03-F863-5BF8-7F0C-CBE5284A596D}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\services\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6570E6C2-D2D9-3475-F24D-33ACEF2590F7}|..\\APICRUD\\APICRUD\\TraineeService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C95BFED0-AB90-4446-824B-8829D703BC83}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6570E6C2-D2D9-3475-F24D-33ACEF2590F7}|..\\APICRUD\\APICRUD\\TraineeService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -60,126 +42,74 @@
               "RelativeDocumentMoniker": "AuthenticationService\\Services\\TokenGenerator.cs",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Services\\TokenGenerator.cs",
               "RelativeToolTip": "AuthenticationService\\Services\\TokenGenerator.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:56:22.52Z",
+              "WhenOpened": "2026-03-19T06:01:07.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIGateway",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\APIGateway.csproj",
+              "RelativeDocumentMoniker": "APIGateway\\APIGateway.csproj",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\APIGateway.csproj",
+              "RelativeToolTip": "APIGateway\\APIGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T05:40:31.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ITokenGenerator.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Services\\ITokenGenerator.cs",
-              "RelativeDocumentMoniker": "AuthenticationService\\Services\\ITokenGenerator.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Services\\ITokenGenerator.cs",
-              "RelativeToolTip": "AuthenticationService\\Services\\ITokenGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Program.cs",
+              "RelativeDocumentMoniker": "..\\APICRUD\\APICRUD\\Program.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Program.cs",
+              "RelativeToolTip": "..\\APICRUD\\APICRUD\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:55:19.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "AuthenticationService\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "AuthenticationService\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAowCcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:42:32.366Z",
+              "WhenOpened": "2026-03-19T05:39:05.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "AuthenticationService\\Repository\\UserRepository.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "AuthenticationService\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "..\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "..\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:39:23.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "AuthenticationService\\Repository\\IUserRepository.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "AuthenticationService\\Repository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:38:08.626Z",
+              "WhenOpened": "2026-03-19T05:31:47.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Program.cs",
-              "RelativeDocumentMoniker": "AuthenticationService\\Program.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Program.cs",
-              "RelativeToolTip": "AuthenticationService\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAsAAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:34:02.222Z",
+              "WhenOpened": "2026-03-19T05:28:59.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthenticationService\\appsettings.json",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\appsettings.json",
-              "RelativeToolTip": "AuthenticationService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway\\Ocelot.json",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\Ocelot.json",
+              "RelativeToolTip": "APIGateway\\Ocelot.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-18T05:33:24.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserDbContext.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Models\\UserDbContext.cs",
-              "RelativeDocumentMoniker": "AuthenticationService\\Models\\UserDbContext.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Models\\UserDbContext.cs",
-              "RelativeToolTip": "AuthenticationService\\Models\\UserDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:32:31.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Models\\User.cs",
-              "RelativeDocumentMoniker": "AuthenticationService\\Models\\User.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Models\\User.cs",
-              "RelativeToolTip": "AuthenticationService\\Models\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T05:30:09.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationService",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\AuthenticationService.csproj",
-              "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationService.csproj",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\AuthenticationService.csproj",
-              "RelativeToolTip": "AuthenticationService\\AuthenticationService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-18T05:27:39.633Z",
+              "WhenOpened": "2026-03-19T05:21:54.764Z",
               "EditorCaption": ""
             }
           ]

@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../APICRUD/APICRUD/TraineeService.csproj" />
+  <Project Path="APIGateway/APIGateway.csproj" Id="3dfee16b-18f0-4257-8da4-7f73b3c3493b" />
   <Project Path="AuthenticationService/AuthenticationService.csproj" />
   <Project Path="LearnersService/LearnersService.csproj" />
 </Solution>

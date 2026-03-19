@@ -16,6 +16,7 @@ namespace AuthenticationService.Controllers
         public AuthController(IUserRepository repo, ITokenGenerator tokengen)
         {
             this.repo = repo;
+            this.tokengen = tokengen;
         }
 
         [HttpPost]
@@ -34,7 +35,7 @@ namespace AuthenticationService.Controllers
                 return StatusCode(401, "Invalid email or password");
             else
 
-                return Ok(tokengen.GenerateToken(user.Email));
+                return Ok(tokengen.GenerateToken(user.Email,loggedInUser.Role));
         }
     }
 }

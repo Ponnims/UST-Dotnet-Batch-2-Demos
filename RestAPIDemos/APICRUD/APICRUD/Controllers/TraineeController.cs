@@ -2,6 +2,7 @@
 using APICRUD.Models;
 using APICRUD.Repository;
 using APICRUD.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,6 +10,9 @@ namespace APICRUD.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+
+    //[AllowAnonymous] // This allows access to all endpoints in this controller without authentication.
+    //Remove if you want to enforce authentication.
     public class TraineeController : ControllerBase
     {
         private readonly ITraineeService svc;
@@ -18,6 +22,7 @@ namespace APICRUD.Controllers
         }
 
         [HttpGet]
+      //  [Authorize(Roles = "Trainee")]
         public IActionResult GetTrainees()
         {
             var trainees = svc.GetTrainees();
@@ -25,6 +30,7 @@ namespace APICRUD.Controllers
         }
 
         [HttpPost]
+        //[Authorize(Roles = "Trainer")]
         public IActionResult CreateTrainee(Trainee trainee)
         {
             try
@@ -37,8 +43,9 @@ namespace APICRUD.Controllers
                 return Conflict(ex.Message);
             }
         }
-
+        //[Authorize(Roles = "Trainer")]
         [HttpPut("{id}")]
+        
         public IActionResult UpdateTrainee(int id, Trainee trainee)
         {
             try
@@ -53,6 +60,7 @@ namespace APICRUD.Controllers
         }
 
         [HttpDelete("{id}")]
+        //[Authorize(Roles = "Trainer")]
         public IActionResult DeleteTrainee(int id)
         {
             try

@@ -1,7 +1,10 @@
 using APICRUD.Models;
 using APICRUD.Repository;
 using APICRUD.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,6 +27,32 @@ builder.Services.AddCors(op =>
 
 });
 
+//var secretkey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("This_Is_A_Secret_Key_For_Token_Generatiion"));
+//builder.Services.AddAuthentication(op =>
+//{
+//    op.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+//    op.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+//}
+//).AddJwtBearer(op =>
+//    op.TokenValidationParameters = new TokenValidationParameters
+//    {
+//        ValidateIssuer = true,
+//        ValidateAudience = true,
+//        ValidateIssuerSigningKey = true,
+
+//        ValidIssuer = "Auth",
+//        ValidAudience = "Trainee",
+//        IssuerSigningKey = secretkey
+//    }
+//);
+
+
+
+
+
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -34,6 +63,7 @@ if (app.Environment.IsDevelopment())
 app.UseCors("AllowReactApp");
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

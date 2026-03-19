@@ -2,6 +2,6 @@
 {
     public interface ITokenGenerator
     {
-        string GenerateToken(string email);
+        string GenerateToken(string email,string role);
     }
 }
