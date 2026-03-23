@@ -7,8 +7,11 @@
       "RelativeMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BEDCD03-F863-5BF8-7F0C-CBE5284A596D}|AuthenticationService\\AuthenticationService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\authenticationservice\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BEDCD03-F863-5BF8-7F0C-CBE5284A596D}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6570E6C2-D2D9-3475-F24D-33ACEF2590F7}|..\\APICRUD\\APICRUD\\TraineeService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\serviceregistryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,11 +21,10 @@
       "AbsoluteMoniker": "D:0:0:{6570E6C2-D2D9-3475-F24D-33ACEF2590F7}|..\\APICRUD\\APICRUD\\TraineeService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\microservicesarchitecturedemo\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3DFEE16B-18F0-4257-8DA4-7F73B3C3493B}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6570E6C2-D2D9-3475-F24D-33ACEF2590F7}|..\\APICRUD\\APICRUD\\TraineeService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6570E6C2-D2D9-3475-F24D-33ACEF2590F7}|..\\APICRUD\\APICRUD\\TraineeService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6570E6C2-D2D9-3475-F24D-33ACEF2590F7}|..\\APICRUD\\APICRUD\\TraineeService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\apicrud\\apicrud\\services\\traineeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,73 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TokenGenerator.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Services\\TokenGenerator.cs",
-              "RelativeDocumentMoniker": "AuthenticationService\\Services\\TokenGenerator.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\AuthenticationService\\Services\\TokenGenerator.cs",
-              "RelativeToolTip": "AuthenticationService\\Services\\TokenGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T06:01:07.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "APIGateway",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\APIGateway.csproj",
-              "RelativeDocumentMoniker": "APIGateway\\APIGateway.csproj",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\APIGateway.csproj",
-              "RelativeToolTip": "APIGateway\\APIGateway.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-19T05:40:31.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Program.cs",
-              "RelativeDocumentMoniker": "..\\APICRUD\\APICRUD\\Program.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Program.cs",
-              "RelativeToolTip": "..\\APICRUD\\APICRUD\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T05:39:05.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TraineeController.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
-              "RelativeDocumentMoniker": "..\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
-              "RelativeToolTip": "..\\APICRUD\\APICRUD\\Controllers\\TraineeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T05:31:47.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\Program.cs",
-              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\Program.cs",
-              "RelativeToolTip": "APIGateway\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T05:28:59.518Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -107,9 +44,87 @@
               "RelativeDocumentMoniker": "APIGateway\\Ocelot.json",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\Ocelot.json",
               "RelativeToolTip": "APIGateway\\Ocelot.json",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-19T05:21:54.764Z",
+              "WhenOpened": "2026-03-23T05:26:31.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:22:23.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIGateway",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\APIGateway.csproj",
+              "RelativeDocumentMoniker": "APIGateway\\APIGateway.csproj",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\APIGateway.csproj",
+              "RelativeToolTip": "APIGateway\\APIGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T05:18:54.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TraineeService.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Services\\TraineeService.cs",
+              "RelativeDocumentMoniker": "..\\APICRUD\\APICRUD\\Services\\TraineeService.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Services\\TraineeService.cs",
+              "RelativeToolTip": "..\\APICRUD\\APICRUD\\Services\\TraineeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T04:49:54.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistryExtensions.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\ServiceRegistryExtensions.cs",
+              "RelativeDocumentMoniker": "..\\APICRUD\\APICRUD\\ServiceRegistryExtensions.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\ServiceRegistryExtensions.cs",
+              "RelativeToolTip": "..\\APICRUD\\APICRUD\\ServiceRegistryExtensions.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T04:48:50.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Program.cs",
+              "RelativeDocumentMoniker": "..\\APICRUD\\APICRUD\\Program.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\Program.cs",
+              "RelativeToolTip": "..\\APICRUD\\APICRUD\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T04:46:23.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\APICRUD\\APICRUD\\appsettings.json",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\APICRUD\\APICRUD\\appsettings.json",
+              "RelativeToolTip": "..\\APICRUD\\APICRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T04:39:44.707Z",
               "EditorCaption": ""
             }
           ]

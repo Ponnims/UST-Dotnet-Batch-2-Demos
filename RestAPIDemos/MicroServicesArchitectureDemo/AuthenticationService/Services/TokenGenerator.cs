@@ -15,8 +15,8 @@ namespace AuthenticationService.Services
             //2. Create the Signing Credentials (using a secret key)
             //3. Generate the token using a JWT library (like System.IdentityModel.Tokens.Jwt)
 
-           // var claims = new[] { new Claim(ClaimTypes.Email, email),new Claim(ClaimTypes.Role, role) };
-            var claims= new[] {new Claim("email",email), new Claim("role",role)};
+            var claims = new[] { new Claim(ClaimTypes.Email, email),new Claim(ClaimTypes.Role, role) };
+            //var claims= new[] {new Claim("email",email), new Claim("role",role)};
 
             var secretkey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("This_Is_A_Secret_Key_For_Token_Generatiion"));
             var credentials= new SigningCredentials(secretkey, SecurityAlgorithms.HmacSha256);

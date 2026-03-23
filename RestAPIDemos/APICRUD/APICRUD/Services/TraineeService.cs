@@ -4,11 +4,11 @@ using APICRUD.Repository;
 
 namespace APICRUD.Services
 {
-    public class TraineeService : ITraineeService
+    public class TraineeServicee : ITraineeService
     {
         private readonly ITraineeRepository repo;
 
-        public TraineeService(ITraineeRepository repo)
+        public TraineeServicee(ITraineeRepository repo)
         {
             this.repo = repo;
         }

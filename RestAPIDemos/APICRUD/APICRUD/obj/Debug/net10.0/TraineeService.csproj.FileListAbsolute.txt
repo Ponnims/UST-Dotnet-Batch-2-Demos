@@ -159,3 +159,4 @@ D:\UST Batch 2\UST_Batch_2_Demos\RestAPIDemos\APICRUD\APICRUD\obj\Debug\net10.0\
 D:\UST Batch 2\UST_Batch_2_Demos\RestAPIDemos\APICRUD\APICRUD\obj\Debug\net10.0\TraineeService.genruntimeconfig.cache
 D:\UST Batch 2\UST_Batch_2_Demos\RestAPIDemos\APICRUD\APICRUD\obj\Debug\net10.0\ref\TraineeService.dll
 D:\UST Batch 2\UST_Batch_2_Demos\RestAPIDemos\APICRUD\APICRUD\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\UST Batch 2\UST_Batch_2_Demos\RestAPIDemos\APICRUD\APICRUD\bin\Debug\net10.0\Consul.dll

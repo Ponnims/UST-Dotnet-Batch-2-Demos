@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "TraineeService/1.0.0": {
         "dependencies": {
+          "Consul": "1.8.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "10.0.5",
           "Microsoft.AspNetCore.OpenApi": "10.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.5",
@@ -40,6 +41,17 @@
           "lib/net8.0/Azure.Identity.dll": {
             "assemblyVersion": "1.14.2.0",
             "fileVersion": "1.1400.225.36004"
+          }
+        }
+      },
+      "Consul/1.8.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Consul.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.0"
           }
         }
       },
@@ -804,6 +816,13 @@
       "sha512": "sha512-YhNMwOTwT+I2wIcJKSdP0ADyB2aK+JaYWZxO8LSRDm5w77LFr0ykR9xmt2ZV5T1gaI7xU6iNFIh/yW1dAlpddQ==",
       "path": "azure.identity/1.14.2",
       "hashPath": "azure.identity.1.14.2.nupkg.sha512"
+    },
+    "Consul/1.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-flKNz6Swyt+pYBJ5dekN1X6PJYUaeNAaNC0dAWhudTd0t2vR34G0QXmr5KyApI7OP1rGMwY3xx133Dc9IvOS6Q==",
+      "path": "consul/1.8.0",
+      "hashPath": "consul.1.8.0.nupkg.sha512"
     },
     "Humanizer.Core/2.14.1": {
       "type": "package",

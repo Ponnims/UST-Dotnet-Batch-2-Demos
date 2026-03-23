@@ -9,10 +9,6 @@
       {
         "Path": "APIGateway\\APIGateway.csproj",
         "Action": "Start"
-      },
-      {
-        "Path": "AuthenticationService\\AuthenticationService.csproj",
-        "Action": "Start"
       }
     ]
   }

@@ -38,6 +38,22 @@
           }
         }
       },
+      "Consul/1.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Consul.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Consul.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -841,7 +857,7 @@
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
-          "lib/net6.0/_._": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
@@ -1124,6 +1140,21 @@
         "lib/net8.0/Azure.Identity.xml",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "Consul/1.8.0": {
+      "sha512": "flKNz6Swyt+pYBJ5dekN1X6PJYUaeNAaNC0dAWhudTd0t2vR34G0QXmr5KyApI7OP1rGMwY3xx133Dc9IvOS6Q==",
+      "type": "package",
+      "path": "consul/1.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "consul.1.8.0.nupkg.sha512",
+        "consul.nuspec",
+        "lib/net461/Consul.dll",
+        "lib/net461/Consul.xml",
+        "lib/netstandard2.0/Consul.dll",
+        "lib/netstandard2.0/Consul.xml"
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -3181,6 +3212,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "Consul >= 1.8.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 10.0.5",
       "Microsoft.AspNetCore.OpenApi >= 10.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.5",
@@ -3237,6 +3269,10 @@
       "net10.0": {
         "targetAlias": "net10.0",
         "dependencies": {
+          "Consul": {
+            "target": "Package",
+            "version": "[1.8.0, )"
+          },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
             "version": "[10.0.5, )"

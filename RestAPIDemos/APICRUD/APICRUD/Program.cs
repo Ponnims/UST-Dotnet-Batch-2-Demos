@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using TraineeService;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,7 +16,9 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 builder.Services.AddDbContext<TraineeDBContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("Mycon")));
 builder.Services.AddScoped<ITraineeRepository, TraineeRepository>();
-builder.Services.AddScoped<ITraineeService, TraineeService>();
+builder.Services.AddScoped<ITraineeService, TraineeServicee>();
+builder.Services.AddConsulConfig(builder.Configuration);
+
 builder.Services.AddCors(op =>
 {
     op.AddPolicy("AllowReactApp", policy =>
@@ -62,7 +65,7 @@ if (app.Environment.IsDevelopment())
 }
 app.UseCors("AllowReactApp");
 app.UseHttpsRedirection();
-
+app.UseConsul(builder.Configuration);
 app.UseAuthentication();
 app.UseAuthorization();
 

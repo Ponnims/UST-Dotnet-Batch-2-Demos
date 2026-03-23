@@ -2,12 +2,17 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
+using Ocelot.Provider.Consul;
+using System.IdentityModel.Tokens.Jwt;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Configuration.AddJsonFile("Ocelot.json");
-builder.Services.AddOcelot();
+builder.Services.AddOcelot().AddConsul();
 
+// this is to 
+
+JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
 var secretkey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("This_Is_A_Secret_Key_For_Token_Generatiion"));
 builder.Services.AddAuthentication(op =>
 {
