@@ -31,6 +31,7 @@ Here's a detailed guide to help you through the process:
    (optional)Install WSl (WSL (Windows Subsystem for Linux) 
    is not strictly needed to work with Kafka on Windows) so 
    the below 2 steps are optional
+
    1. Open Powershell from windows
    2. wsl.exe --install
 

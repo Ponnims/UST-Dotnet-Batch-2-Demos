@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "ProducerService\\Steps.txt",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Steps.txt",
               "RelativeToolTip": "ProducerService\\Steps.txt",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIgAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-03-18T08:13:26.075Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "ConsumerService\\Logs\\orderlog.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-02-18T05:43:29.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T05:43:29.114Z"
             },
             {
               "$type": "Document",
@@ -164,8 +163,7 @@
               "RelativeToolTip": "ProducerService\\ProducerService.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-18T04:40:55.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T04:40:55.389Z"
             },
             {
               "$type": "Document",

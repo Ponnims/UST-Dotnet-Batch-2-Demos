@@ -7,9 +7,19 @@
       "DownstreamScheme": "https",
       "ServiceName": "TraineesAPI",
 
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+
       "UpstreamPathTemplate": "/myfrontendtrainees",
       "UpstreamHttpMethod": [ "Get" ]
-     }
-  ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 8500
+    }
+  }
 
 }

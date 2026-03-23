@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "APIGateway\\Ocelot.json",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\Ocelot.json",
               "RelativeToolTip": "APIGateway\\Ocelot.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-23T05:26:31.612Z",
               "EditorCaption": ""
@@ -59,21 +59,19 @@
               "RelativeToolTip": "APIGateway\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T05:22:23.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T05:22:23.239Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "APIGateway",
+              "Title": "APIGateway.csproj",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\APIGateway.csproj",
               "RelativeDocumentMoniker": "APIGateway\\APIGateway.csproj",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\MicroServicesArchitectureDemo\\APIGateway\\APIGateway.csproj",
               "RelativeToolTip": "APIGateway\\APIGateway.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-23T05:18:54.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T05:18:54.886Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "..\\APICRUD\\APICRUD\\Services\\TraineeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T04:49:54.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T04:49:54.276Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "..\\APICRUD\\APICRUD\\ServiceRegistryExtensions.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAwwB0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T04:48:50.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T04:48:50.762Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "..\\APICRUD\\APICRUD\\Program.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T04:46:23.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T04:46:23.836Z"
             },
             {
               "$type": "Document",
@@ -124,8 +119,7 @@
               "RelativeToolTip": "..\\APICRUD\\APICRUD\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-23T04:39:44.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T04:39:44.707Z"
             }
           ]
         }
