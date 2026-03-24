@@ -20,12 +20,14 @@ namespace ProducerService.Controllers
         [HttpPost]
         public async Task<IActionResult> Post(Order order)
         {
-            // make ur message ready
+            // 1. make ur message ready
             string message = JsonConvert.SerializeObject(order);
             // Configure Kafka Producer
             ProducerConfig pconfig = new ProducerConfig
             {
-                BootstrapServers = config["Kafka:Server"]
+                BootstrapServers = config["Kafka:Server"],
+                
+               
             };
             // CReate and Build the Kafka Producer
 

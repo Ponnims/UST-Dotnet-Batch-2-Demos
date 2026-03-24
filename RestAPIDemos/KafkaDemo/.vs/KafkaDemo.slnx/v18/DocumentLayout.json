@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\producerservice\\steps.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|solutionrelative:producerservice\\steps.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\producerservice\\producerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|solutionrelative:producerservice\\producerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\consumerservice\\logs\\orderlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\logs\\orderlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\consumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\consumerservice\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\consumerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\consumerservice\\consumerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\consumerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\consumerservice\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\consumerservice\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\consumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\consumerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\producerservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|solutionrelative:producerservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\producerservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|solutionrelative:producerservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\producerservice\\producerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|solutionrelative:producerservice\\producerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\producerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|solutionrelative:producerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\producerservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|solutionrelative:producerservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\producerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BB978C-1657-9617-A534-10FCF46B820A}|ProducerService\\ProducerService.csproj|solutionrelative:producerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\kafkademo\\consumerservice\\consumerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B568B69-5ABE-F4C4-95F9-81A7A080EFF2}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\consumerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,43 +59,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Steps.txt",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Steps.txt",
-              "RelativeDocumentMoniker": "ProducerService\\Steps.txt",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Steps.txt",
-              "RelativeToolTip": "ProducerService\\Steps.txt",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-03-18T08:13:26.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "orderlog.txt",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\Logs\\orderlog.txt",
               "RelativeDocumentMoniker": "ConsumerService\\Logs\\orderlog.txt",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\Logs\\orderlog.txt",
               "RelativeToolTip": "ConsumerService\\Logs\\orderlog.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-02-18T05:43:29.114Z"
+              "WhenOpened": "2026-02-18T05:43:29.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\Model\\Order.cs",
-              "RelativeDocumentMoniker": "ConsumerService\\Model\\Order.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\Model\\Order.cs",
-              "RelativeToolTip": "ConsumerService\\Model\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "ConsumerService\\KafkaConsumerService.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\KafkaConsumerService.cs",
+              "RelativeToolTip": "ConsumerService\\KafkaConsumerService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T05:23:23.295Z"
+              "WhenOpened": "2026-02-18T05:09:15.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ProducerService\\Models\\Order.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Models\\Order.cs",
+              "RelativeToolTip": "ProducerService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T04:43:22.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProducerService.csproj",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\ProducerService.csproj",
+              "RelativeDocumentMoniker": "ProducerService\\ProducerService.csproj",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\ProducerService.csproj",
+              "RelativeToolTip": "ProducerService\\ProducerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T04:40:55.389Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ProducerService\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ProducerService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T04:44:53.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\appsettings.json",
               "RelativeDocumentMoniker": "ConsumerService\\appsettings.json",
@@ -103,67 +131,8 @@
               "RelativeToolTip": "ConsumerService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-18T05:12:19.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConsumerService.csproj",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\ConsumerService.csproj",
-              "RelativeDocumentMoniker": "ConsumerService\\ConsumerService.csproj",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\ConsumerService.csproj",
-              "RelativeToolTip": "ConsumerService\\ConsumerService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-18T05:08:57.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "KafkaConsumerService.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\KafkaConsumerService.cs",
-              "RelativeDocumentMoniker": "ConsumerService\\KafkaConsumerService.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\KafkaConsumerService.cs",
-              "RelativeToolTip": "ConsumerService\\KafkaConsumerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T05:09:15.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "ProducerService\\Models\\Order.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Models\\Order.cs",
-              "RelativeToolTip": "ProducerService\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T04:43:22.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\appsettings.json",
-              "RelativeDocumentMoniker": "ProducerService\\appsettings.json",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\appsettings.json",
-              "RelativeToolTip": "ProducerService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-18T04:45:21.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProducerService.csproj",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\ProducerService.csproj",
-              "RelativeDocumentMoniker": "ProducerService\\ProducerService.csproj",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\ProducerService.csproj",
-              "RelativeToolTip": "ProducerService\\ProducerService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-18T04:40:55.389Z"
+              "WhenOpened": "2026-02-18T05:12:19.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -173,21 +142,62 @@
               "RelativeDocumentMoniker": "ConsumerService\\Program.cs",
               "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\Program.cs",
               "RelativeToolTip": "ConsumerService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T05:41:24.736Z"
+              "WhenOpened": "2026-02-18T05:41:24.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "ConsumerService\\Model\\Order.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\Model\\Order.cs",
+              "RelativeToolTip": "ConsumerService\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:23:23.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProducerService\\appsettings.json",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\appsettings.json",
+              "RelativeToolTip": "ProducerService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T04:45:21.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Program.cs",
+              "RelativeDocumentMoniker": "ProducerService\\Program.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Program.cs",
+              "RelativeToolTip": "ProducerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:29:26.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "ProducerService\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ProducerService\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "ProducerService\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T04:44:53.702Z"
+              "Title": "ConsumerService.csproj",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\ConsumerService.csproj",
+              "RelativeDocumentMoniker": "ConsumerService\\ConsumerService.csproj",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\KafkaDemo\\ConsumerService\\ConsumerService.csproj",
+              "RelativeToolTip": "ConsumerService\\ConsumerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T05:08:57.68Z",
+              "EditorCaption": ""
             }
           ]
         }

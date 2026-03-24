@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\SerilogDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A837238-2A10-43A0-89CB-867CD29B1014}|SerilogDemo\\SerilogDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\serilogdemo\\serilogdemo\\controllers\\serilogdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A837238-2A10-43A0-89CB-867CD29B1014}|SerilogDemo\\SerilogDemo.csproj|solutionrelative:serilogdemo\\controllers\\serilogdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A837238-2A10-43A0-89CB-867CD29B1014}|SerilogDemo\\SerilogDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\serilogdemo\\serilogdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A837238-2A10-43A0-89CB-867CD29B1014}|SerilogDemo\\SerilogDemo.csproj|solutionrelative:serilogdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A837238-2A10-43A0-89CB-867CD29B1014}|SerilogDemo\\SerilogDemo.csproj|d:\\ust batch 2\\ust_batch_2_demos\\restapidemos\\serilogdemo\\serilogdemo\\serilogdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A837238-2A10-43A0-89CB-867CD29B1014}|SerilogDemo\\SerilogDemo.csproj|solutionrelative:serilogdemo\\serilogdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\SerilogDemo\\SerilogDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SerilogDemo\\Program.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\SerilogDemo\\SerilogDemo\\Program.cs",
+              "RelativeToolTip": "SerilogDemo\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:18:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerilogDemoController.cs",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\SerilogDemo\\SerilogDemo\\Controllers\\SerilogDemoController.cs",
+              "RelativeDocumentMoniker": "SerilogDemo\\Controllers\\SerilogDemoController.cs",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\SerilogDemo\\SerilogDemo\\Controllers\\SerilogDemoController.cs*",
+              "RelativeToolTip": "SerilogDemo\\Controllers\\SerilogDemoController.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:17:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SerilogDemo",
+              "DocumentMoniker": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\SerilogDemo\\SerilogDemo\\SerilogDemo.csproj",
+              "RelativeDocumentMoniker": "SerilogDemo\\SerilogDemo.csproj",
+              "ToolTip": "D:\\UST Batch 2\\UST_Batch_2_Demos\\RestAPIDemos\\SerilogDemo\\SerilogDemo\\SerilogDemo.csproj",
+              "RelativeToolTip": "SerilogDemo\\SerilogDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T05:15:12.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

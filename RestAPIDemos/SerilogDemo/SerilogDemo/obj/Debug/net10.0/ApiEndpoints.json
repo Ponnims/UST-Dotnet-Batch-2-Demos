@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "SerilogDemo.Controllers.SerilogDemoController",
+    "Method": "display",
+    "RelativePath": "api/SerilogDemo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SerilogDemo.Controllers.SerilogDemoController",
+    "Method": "getError",
+    "RelativePath": "api/SerilogDemo/error",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
